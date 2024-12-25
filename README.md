@@ -36,12 +36,12 @@ max(P)
 Write the python program, which can process the brick sounds and outputs their quality in
 terms of metal (high) or cardboard (low) quality.
 
-3. optimal character recognization
+3. optimal character recognition
 To digitize written knowledge, we need to scan the images and then
-use optical character recognition (OCR), an image processing algorithms to digitize it. However,
-many times, the scanned images are not horizontally aligned, which causes OCR to fail or
-produce erroneous digitization. These scanned images need to be re-rotated so that the final text
+use optical character recognition (OCR), an image processing algorithm to digitize it. However, the scanned images are often
+not horizontally aligned, which causes OCR to fail or
+produce erroneous digitization. These scanned images need to be re-rotated so that the final text
 appears perfectly aligned horizontally in a readable form.
-Design a python program to realign scanned text always in horizontal viewing manner. Your program will be tested
+Design a python program to realign scanned text always in a horizontal viewing manner. Your program will be tested
 on various different input images where in the output any text character should not be cut and
-image should be horizontally alinged.
+image should be horizontally aligned.
